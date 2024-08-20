@@ -1,0 +1,7 @@
+bin/
+bin_release/
+.sconsign.dblite
+.vscode/
+pawocalypse_debug
+pawocalypse_release
+vgcore.*
